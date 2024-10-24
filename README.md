@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://youtube.com/playlist?list=PLJT1e2CqMCFC67EzS0-E7FpDs96-OJruw&si=0VZr5vovOLl95okI" target="_blank">
+    <a href="https://youtu.be/s1u7tJ9VUh0" target="_blank">
       <img src="public/header.png" alt="Project Banner">
     </a>
   <br />
@@ -32,8 +32,7 @@
 
 This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@codespirit369/videos" target="_blank"><b>Code Spirit</b></a>.
 
-<a href="https://youtube.com/playlist?list=PLJT1e2CqMCFC67EzS0-E7FpDs96-OJruw&si=0VZr5vovOLl95okI" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
-xai-ZHe524raLOkWxKPOwnpn5ZraWLvHDEDcPRW4ArWG7C6aqPZg3zBwj1LefyigUMjmVsrS3E0lEHxUoMLk
+<a href="https://youtu.be/s1u7tJ9VUh0" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
